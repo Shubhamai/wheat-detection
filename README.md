@@ -2,6 +2,9 @@
 
 This is a project for detecting and creating bounding box of wheat heads 🌾.  
 
+![image](https://github.com/Shubhamai/wheat-detection/blob/master/wheat.png)
+
+
 ## Table of Contents
 
 * [About the Project](#about-the-project)
@@ -12,6 +15,7 @@ This is a project for detecting and creating bounding box of wheat heads 🌾.
   * [Installation](#installation)
 * [License](#license)
 * [Contact](#contact)
+
 
 # About the project
 
@@ -51,3 +55,4 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
 [![Generic badge](https://img.shields.io/badge/Need_Help-Contact_ME!-<COLOR>.svg)](https://shields.io/)
 
 Shubham Gupta - shubham.aiengineer@gmail.com
+Shubhamai - https://shubhamai.github.io/home
